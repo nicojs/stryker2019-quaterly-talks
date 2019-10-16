@@ -1,2 +1,0 @@
-# Stryker4s
-

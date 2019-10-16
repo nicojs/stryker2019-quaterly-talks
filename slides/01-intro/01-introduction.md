@@ -1,1 +1,1 @@
-<!-- .slide: data-background="img/background.png" -->
+<!-- .slide: data-background="img/stryker-500.000.jpg" -->
